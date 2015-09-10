@@ -1,3 +1,7 @@
+# EDITS
+
+Modified to use Unix line endings by default, even if you are on Windows.
+
 # Line Ending Selector [![Build Status](https://travis-ci.org/atom/line-ending-selector.svg?branch=master)](https://travis-ci.org/atom/line-ending-selector)
 
 ![status bar tile](https://cloud.githubusercontent.com/assets/1305617/9274149/6b317568-4293-11e5-83ba-614a6c0d9890.png)
