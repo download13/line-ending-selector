@@ -4,7 +4,7 @@
   "main": "./lib/main",
   "description": "Select the line ending to use for the current editor. Defaults to Unix.",
   "license": "MIT",
-  "repository": "https://github.com/download13/line-ending-selector",
+  "repository": "git@github.com:download13/line-ending-selector.git",
   "engines": {
     "atom": "^1.0.0"
   },
