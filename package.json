@@ -1,10 +1,10 @@
 {
-  "name": "line-ending-selector",
+  "name": "line-ending-selector-unix",
   "version": "0.0.5",
   "main": "./lib/main",
-  "description": "Select the line ending to use for the current editor.",
+  "description": "Select the line ending to use for the current editor. Defaults to Unix.",
   "license": "MIT",
-  "repository": "https://github.com/atom/line-ending-selector",
+  "repository": "https://github.com/download13/line-ending-selector",
   "engines": {
     "atom": "^1.0.0"
   },
